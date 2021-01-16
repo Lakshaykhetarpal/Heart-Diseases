@@ -1,2 +1,2 @@
-# Heart-Diseases
-Predicting whether a person is suffering from heart disease or not on the basis of various conditions and lifestyle.
+# Farmingham-Heart-Disease
+Predicting about the probability of a person to be prone of heart disease on the basis of very other health condition and habits.
